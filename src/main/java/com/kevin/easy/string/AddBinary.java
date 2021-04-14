@@ -1,4 +1,4 @@
-package com.kevin.easy;
+package com.kevin.easy.string;
 
 /**
  * @Author: kai Li
@@ -9,7 +9,7 @@ package com.kevin.easy;
 public class AddBinary {
 
     public static void main(String[] args) {
-        System.out.println(addBinary("11", "1"));
+        System.out.println(addBinary("1010", "1011"));
     }
 
     public static String addBinary(String a, String b) {

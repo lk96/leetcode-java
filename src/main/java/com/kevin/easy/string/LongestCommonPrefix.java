@@ -1,4 +1,4 @@
-package com.kevin.easy;
+package com.kevin.easy.string;
 
 /**
  * @Author: kai Li
